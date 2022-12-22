@@ -2,7 +2,7 @@
 
 
 import java.util.*;
-class CHECK_2set_DISJOINT {
+class HASH_CHECK_2set_DISJOINT {
     
     static boolean areDisjoint(int A[] ,int B[]){
             HashSet<Integer>HASH =new HashSet<>();
